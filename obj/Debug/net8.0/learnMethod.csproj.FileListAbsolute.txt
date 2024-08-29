@@ -1,0 +1,14 @@
+c:\Users\hp\New folder (2)\learnMethod\bin\Debug\net8.0\learnMethod.exe
+c:\Users\hp\New folder (2)\learnMethod\bin\Debug\net8.0\learnMethod.deps.json
+c:\Users\hp\New folder (2)\learnMethod\bin\Debug\net8.0\learnMethod.runtimeconfig.json
+c:\Users\hp\New folder (2)\learnMethod\bin\Debug\net8.0\learnMethod.dll
+c:\Users\hp\New folder (2)\learnMethod\bin\Debug\net8.0\learnMethod.pdb
+c:\Users\hp\New folder (2)\learnMethod\obj\Debug\net8.0\learnMethod.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hp\New folder (2)\learnMethod\obj\Debug\net8.0\learnMethod.AssemblyInfoInputs.cache
+c:\Users\hp\New folder (2)\learnMethod\obj\Debug\net8.0\learnMethod.AssemblyInfo.cs
+c:\Users\hp\New folder (2)\learnMethod\obj\Debug\net8.0\learnMethod.csproj.CoreCompileInputs.cache
+c:\Users\hp\New folder (2)\learnMethod\obj\Debug\net8.0\learnMethod.dll
+c:\Users\hp\New folder (2)\learnMethod\obj\Debug\net8.0\refint\learnMethod.dll
+c:\Users\hp\New folder (2)\learnMethod\obj\Debug\net8.0\learnMethod.pdb
+c:\Users\hp\New folder (2)\learnMethod\obj\Debug\net8.0\learnMethod.genruntimeconfig.cache
+c:\Users\hp\New folder (2)\learnMethod\obj\Debug\net8.0\ref\learnMethod.dll
